@@ -1,0 +1,7 @@
+/* src/index.css */
+/* Add any global styles here if needed, though Tailwind handles most. */
+body {
+  margin: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
